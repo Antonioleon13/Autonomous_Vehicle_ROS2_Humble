@@ -1,4 +1,4 @@
-# Autonomous Car with ROS2 Humble
+# Autonomous Vehicle with ROS2 Humble
 
 This project implements an autonomous car using ROS2 Humble. The repository contains two packages: `camera_viewer` and `localization`.
 
